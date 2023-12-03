@@ -12,4 +12,5 @@ console.log(accountID);  //we have to write console.log in semicolon
 
 console.log(accEmail);
 console.log(accType); // now we get changed values of var and let
+console.table([accEmail,accType,accountID])  //saves in tabulat structure
 
